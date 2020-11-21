@@ -46,7 +46,7 @@ The main challenges and difficulties encountered during this analysis are relate
 
 ## Results
 
-*In the paragraph below we are looking at the conclusions of the Kickstarter campaigns analysis. 
+In the paragraph below we are looking at the conclusions of the Kickstarter campaigns analysis. 
 
 **- What are two conclusions you can draw about the Outcomes based on Launch Date?**
 
