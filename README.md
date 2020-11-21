@@ -19,7 +19,7 @@ This part of the analysis is based on the **Theater Outcomes by Launch Date** ta
 In this part of analysis we are looking at **Successful**, **Failed** and **Canceled** theater Kickstarted campaigns between the years of 2010-2017 (up to 3/15/2017). We are looking 
 at a total of 1369 campaigns, including 839 successful, 493 failed and 37 canceled. 
 
-As you can see from the ![Theater_Outcomes_vs_Launch](https://github.com/TamaraGR/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) pivot chart image, 
+Let's look at the below pivot chart to get more insights for our analysis. ![Theater_Outcomes_vs_Launch](https://github.com/TamaraGR/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) As you can see from this pivot chart image, 
 the successful campaigns **peak** during the month of **May** at 111 and are at their **lowest** in the month of **December** at 37. The failed campaigns have a much narrower range. 
 They also **peak** during the month of **May** at 52 and are at their **lowest* during the month of **November** at 31. The canceled campaigns range between 0 to 7 in a said month, 
 with **highest** number of cancellations in **January** and **lowest** in **October**. Overall, according to the analyzed database, the Kickstarter platform saw less activity in the end and the beginning
@@ -31,7 +31,7 @@ This part of analysis is based on the **Outcomes Based On Goals** tab on the ![K
 In this part of the analysis we are looking at the percentages of **Successful**, **Failed** and **Canceled** campaigns, depending on their fundraising goals. The fundraising goals ranges that we are looking at are 
 less than 1000, 1000 to 4999, 5000 to 9999, 10000 to 14999, 15000 to 19999, 20000 to 24999, 25000 to 29999, 30000 to 34999, 35000 to 39999, 40000 to 44999, 45000 to 49999 and greater than 50000.
 
-If you refer to the ![Outcomes_vs_Goals](https://github.com/TamaraGR/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)pivot chart image, you will see that the highest percentage (76% and 73%) of successful fundraisers for plays on Kickstarter  are for the amounts  under 1000 and between 1000 and 4999.  
+Let's refer to the next pivot chart for more insights. ![Outcomes_vs_Goals](https://github.com/TamaraGR/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png) As you can see from this pivot chart image, you will see that the highest percentage (76% and 73%) of successful fundraisers for plays on Kickstarter  are for the amounts  under 1000 and between 1000 and 4999.  
 There are no cancelled plays for these amounts (there are no cancelled plays under the given above criteria in general), and therefore the lowest percentage of cancelled fundraisers (24% and 27% is for the amounts ounder 1000 and between 1000 and 4999. 
 
 The numbers of campaigns on the lower monetary value side is in general much higher than the number of campaigns with higher monetary value. For example, a total of 186 campaigns were started for the amounts under 1000, a total of 534 campaigns were started 
