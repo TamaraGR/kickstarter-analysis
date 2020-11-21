@@ -19,7 +19,7 @@ This part of the analysis is based on the **Theater Outcomes by Launch Date** ta
 In this part of analysis we are looking at **Successful**, **Failed** and **Canceled** theater Kickstarted campaigns between the years of 2010-2017 (up to 3/15/2017). We are looking 
 at a total of 1369 campaigns, including 839 successful, 493 failed and 37 canceled. 
 
-As you can see from the [Theater_Outcomes_vs_Launch] (https://github.com/TamaraGR/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) pivot chart image, 
+As you can see from the ![Theater_Outcomes_vs_Launch](https://github.com/TamaraGR/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) pivot chart image, 
 the successful campaigns **peak** during the month of **May** at 111 and are at their **lowest** in the month of **December** at 37. The failed campaigns have a much narrower range. 
 They also **peak** during the month of **May** at 52 and are at their **lowest* during the month of **November** at 31. The canceled campaigns range between 0 to 7 in a said month, 
 with **highest** number of cancellations in **January** and **lowest** in **October**. Overall, according to the analyzed database, the Kickstarter platform saw less activity in the end and the beginning
