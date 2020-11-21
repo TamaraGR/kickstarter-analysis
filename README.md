@@ -2,12 +2,12 @@
 
 ## Overview of Project
 
-This is an analysis of the [Kickstarter Challenge database] (https://github.com/TamaraGR/kickstarter-analysis) files. In this analysis we are looking at the Theater kickstarter campaigns outcomes sorted by their launch date and plays kickstarter campaigns based on the goals for fundraising. 
+This is an analysis of the ![Kickstarter Challenge database](https://github.com/TamaraGR/kickstarter-analysis) files. In this analysis we are looking at the Theater kickstarter campaigns outcomes sorted by their launch date and plays kickstarter campaigns based on the goals for fundraising. 
 We are looking to estabish trends regarding when it is best to start a fundraising campaign, and what goal amount is most ideal for the campaign to be successful. 
 
 ### Purpose
 
-This analysis is performed with the purpose of comparing different theater/ plays-related [Kickstarter campaigns] (https://www.kickstarter.com/) in relation to their launch dates and their funding goals.  
+This analysis is performed with the purpose of comparing different theater/ plays-related ![Kickstarter campaigns](https://www.kickstarter.com/) in relation to their launch dates and their funding goals.  
 
 ## Analysis and Challenges
 
@@ -15,7 +15,7 @@ This analysis is performed with the purpose of comparing different theater/ play
 
 ### Analysis of Outcomes Based on Launch Date
 
-This part of the analysis is based on the **Theater Outcomes by Launch Date** tab on the [Kickstarter Challenge database] (https://github.com/TamaraGR/kickstarter-analysis/blob/main/Kickstarter_Challenge.zip) file. 
+This part of the analysis is based on the **Theater Outcomes by Launch Date** tab on the ![Kickstarter Challenge database](https://github.com/TamaraGR/kickstarter-analysis/blob/main/Kickstarter_Challenge.zip) file. 
 In this part of analysis we are looking at **Successful**, **Failed** and **Canceled** theater Kickstarted campaigns between the years of 2010-2017 (up to 3/15/2017). We are looking 
 at a total of 1369 campaigns, including 839 successful, 493 failed and 37 canceled. 
 
@@ -27,11 +27,11 @@ of the year, while it saw peak of activity during the month of May.
 
 ### Analysis of Outcomes Based on Goals
 
-This part of analysis is based on the **Outcomes Based On Goals** tab on the [Kickstarter Challenge database] (https://github.com/TamaraGR/kickstarter-analysis/blob/main/Kickstarter_Challenge.zip) file.
+This part of analysis is based on the **Outcomes Based On Goals** tab on the ![Kickstarter Challenge database](https://github.com/TamaraGR/kickstarter-analysis/blob/main/Kickstarter_Challenge.zip) file.
 In this part of the analysis we are looking at the percentages of **Successful**, **Failed** and **Canceled** campaigns, depending on their fundraising goals. The fundraising goals ranges that we are looking at are 
 less than 1000, 1000 to 4999, 5000 to 9999, 10000 to 14999, 15000 to 19999, 20000 to 24999, 25000 to 29999, 30000 to 34999, 35000 to 39999, 40000 to 44999, 45000 to 49999 and greater than 50000.
 
-If you refer to the [Outcomes_vs_Goals] (https://github.com/TamaraGR/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)pivot chart image, you will see that the highest percentage (76% and 73%) of successful fundraisers for plays on Kickstarter  are for the amounts  under 1000 and between 1000 and 4999.  
+If you refer to the ![Outcomes_vs_Goals](https://github.com/TamaraGR/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)pivot chart image, you will see that the highest percentage (76% and 73%) of successful fundraisers for plays on Kickstarter  are for the amounts  under 1000 and between 1000 and 4999.  
 There are no cancelled plays for these amounts (there are no cancelled plays under the given above criteria in general), and therefore the lowest percentage of cancelled fundraisers (24% and 27% is for the amounts ounder 1000 and between 1000 and 4999. 
 
 The numbers of campaigns on the lower monetary value side is in general much higher than the number of campaigns with higher monetary value. For example, a total of 186 campaigns were started for the amounts under 1000, a total of 534 campaigns were started 
