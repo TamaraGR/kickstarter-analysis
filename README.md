@@ -21,7 +21,7 @@ at a total of 1369 campaigns, including 839 successful, 493 failed and 37 cancel
 
 Let's look at the below pivot chart to get more insights for our analysis. ![Theater_Outcomes_vs_Launch](https://github.com/TamaraGR/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) As you can see from this pivot chart image, 
 the successful campaigns **peak** during the month of **May** at 111 and are at their **lowest** in the month of **December** at 37. The failed campaigns have a much narrower range. 
-They also **peak** during the month of **May** at 52 and are at their **lowest* during the month of **November** at 31. The canceled campaigns range between 0 to 7 in a said month, 
+They also **peak** during the month of **May** at 52 and are at their **lowest** during the month of **November** at 31. The canceled campaigns range between 0 to 7 in a said month, 
 with **highest** number of cancellations in **January** and **lowest** in **October**. Overall, according to the analyzed database, the Kickstarter platform saw less activity in the end and the beginning
 of the year, while it saw peak of activity during the month of May. 
 
@@ -46,7 +46,7 @@ The main challenges and difficulties encountered during this analysis are relate
 
 ## Results
 
-In the paragraph below we are looking at the conclusions of the Kickstarter campaigns analysis. 
+*In the paragraph below we are looking at the conclusions of the Kickstarter campaigns analysis.*
 
 **- What are two conclusions you can draw about the Outcomes based on Launch Date?**
 
